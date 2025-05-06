@@ -1,16 +1,62 @@
-## Hi there 👋
+<h1 align="center">Hi there! 👋 I'm Oscar Santiago Monsalve Labrador</h1>
 
-<!--
-**OscarS05/OscarS05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Backend Developer focused on Node.js and Clean Architecture</strong>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 About Me
+
+I'm a backend developer specialized in building robust and scalable RESTful APIs using Node.js and Express. I apply Clean Architecture and Domain-Driven Design (DDD) principles to create maintainable systems. I’m currently finishing my Software Analysis and Development degree at **SENA** and beginning my Software Engineering studies at **UNIMINUTO**.
+
+I've built APIs for collaborative project management, livestock control, and a microservices-based social network. I'm passionate about software architecture, performance, security, and writing clean, understandable code.
+
+---
+
+### 🛠️ Technologies & Tools
+
+- **Languages & Frameworks**: Node.js, Express
+- **Databases**: PostgreSQL, Sequelize ORM
+- **Cache & Messaging**: Redis, BullMQ
+- **Security & Validation**: JWT, Joi
+- **Other Tools**: Docker, Swagger, Git & GitHub
+- **Architecture**: Clean Architecture, Domain-Driven Design (DDD)
+
+Currently learning: **Nest.js**, **TypeScript**, **GraphQL**, **OAuth**, **Socket.io**
+
+---
+
+### 📌 Featured Projects
+
+#### 🔹 [Trello-like API – *Autumn*](https://github.com/santiagomonsalve7030/Autumn)
+> Autumn is an API for collaborative project management inspired by Trello. It includes features like authentication, user roles, teams, task assignment, and file attachments. Built with Node.js, Express, PostgreSQL, Sequelize ORM, Redis, JWT, BullMQ, and Docker. The project follows Clean Architecture and DDD principles.
+
+#### 🔹 [Agroplus API](https://github.com/santiagomonsalve7030/agroplus-api)
+> Agroplus-API is a RESTful API designed for livestock management. Users can register and manage animals' information such as parentage, vaccination, deworming, and personal notes. Built with Node.js and PostgreSQL.
+
+#### 🔸 [Microservices Social Network (Basic)](https://github.com/santiagomonsalve7030/red-social-node)
+> A simple social network backend implemented using microservices for posts, cache, database, and core services.
+
+---
+
+### 🚀 Deployment & Version Control
+
+I use Git and GitHub for version control, and I deploy backend projects on **Render**, using **Supabase** for database hosting. I manage deployments by linking my GitHub repository with Render and setting environment variables via `.env`.
+
+---
+
+### 📚 Certifications & Learning
+
+- 🎓 Finishing technologist degree in **Software Analysis and Development – SENA**
+- 🧠 Currently studying **Software Engineering – UNIMINUTO (Colombia)**
+- 🎖️ Ongoing backend training via [Platzi](https://platzi.com/p/santiagomonsalve7030/): Backend Development with Node.js, Clean Architecture, and more.
+
+---
+
+### 🌐 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/o-santiago-monsalve)
+- 📫 Feel free to reach out if you'd like to collaborate!
+
+---
