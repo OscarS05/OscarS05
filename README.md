@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Oscar Santiago Monsalve Labrador</h1>
 
 <p align="center">
-  <strong>Backend Developer focused on Node.js and Clean Architecture</strong>
+  <strong>Backend Developer focused on Node.js</strong>
 </p>
 
 ---
@@ -19,20 +19,20 @@ I've built APIs for collaborative project management, livestock control, and a m
 - **Languages & Frameworks**: Node.js, Express
 - **Databases**: PostgreSQL, Sequelize ORM
 - **Cache & Messaging**: Redis, BullMQ
-- **Security & Validation**: JWT, Joi
+- **Security & Validation**: JWT, Joi, rate-limiting
 - **Other Tools**: Docker, Swagger, Git & GitHub
-- **Architecture**: Clean Architecture, Domain-Driven Design (DDD)
+- **Architecture**: Clean Architecture, Domain-Driven Design (DDD) and Entity-based MVC
 
-Currently learning: **Nest.js**, **TypeScript**, **GraphQL**, **OAuth**, **Socket.io**
+Currently learning: **different testing techniques**, **Nest.js**, **TypeScript**, **GraphQL**, **OAuth**, **Socket.io**, **B1 English**
 
 ---
 
 ### 📌 Featured Projects
 
-#### 🔹 [Trello-like API – *Autumn*](https://github.com/santiagomonsalve7030/Autumn)
+#### 🔹 [Trello-like API – *Autumn*](https://github.com/OscarS05/Trello-like-project-api)
 > Autumn is an API for collaborative project management inspired by Trello. It includes features like authentication, user roles, teams, task assignment, and file attachments. Built with Node.js, Express, PostgreSQL, Sequelize ORM, Redis, JWT, BullMQ, and Docker. The project follows Clean Architecture and DDD principles.
 
-#### 🔹 [Agroplus API](https://github.com/santiagomonsalve7030/agroplus-api)
+#### 🔹 [Agroplus API](https://github.com/OscarS05/Agroplus-api)
 > Agroplus-API is a RESTful API designed for livestock management. Users can register and manage animals' information such as parentage, vaccination, deworming, and personal notes. Built with Node.js and PostgreSQL.
 
 #### 🔸 [Microservices Social Network (Basic)](https://github.com/santiagomonsalve7030/red-social-node)
