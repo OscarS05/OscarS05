@@ -35,7 +35,7 @@ Currently learning: **different testing techniques**, **Nest.js**, **TypeScript*
 #### 🔹 [Agroplus API](https://github.com/OscarS05/Agroplus-api)
 > Agroplus-API is a RESTful API designed for livestock management. Users can register and manage animals' information such as parentage, vaccination, deworming, and personal notes. Built with Node.js and PostgreSQL.
 
-#### 🔸 [Microservices Social Network (Basic)](https://github.com/santiagomonsalve7030/red-social-node)
+#### 🔸 [Microservices Social Network (Basic)](https://github.com/OscarS05/microservices-basic-course)
 > A simple social network backend implemented using microservices for posts, cache, database, and core services.
 
 ---
