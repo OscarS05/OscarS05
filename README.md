@@ -50,7 +50,7 @@ Currently learning: **Nest.js**, **TypeScript**, **GraphQL**, **OAuth**, **Socke
 > Trello-like is an API for collaborative project management inspired by Trello. It includes features like authentication, user roles, workspaces, projects, teams, task assignment, checklists, members, and file attachments. Built with Node.js, Express, PostgreSQL, Sequelize ORM, Redis, JWT, BullMQ, and Docker. The project follows Clean Architecture and DDD principles.
 
 #### 🔹 [Agroplus API](https://github.com/OscarS05/Agroplus-api)
-> Agroplus-API is a RESTful API designed for livestock management. Users can register and manage animals information such as parentage, vaccination, deworming, and personal notes. Built with Node.js and PostgreSQL.
+> Agroplus-API is a RESTful API designed for livestock management. Users can register and manage animals information such as parentage, vaccination, deworming, and personal notes. Built with Node.js, express.js, SequelizeORM, PostgreSQL, Docker, JWT, and entity-based MVC architecture.
 
 #### 🔸 [Microservices Social Network (Basic)](https://github.com/OscarS05/microservices-basic-course)
 > A simple social network backend implemented using microservices for posts, cache, database, and core services.
