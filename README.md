@@ -64,6 +64,17 @@ Currently learning: **Nest.js**, **TypeScript**, **GraphQL**, **OAuth**, **Socke
 
 ---
 
+## 👨‍💻 Soft skills
+
+- Self-taught
+- Proactivity
+- Teamwork
+- Fast learning and adaptability
+- Fellowship
+- Problem solving
+
+---
+
 ### 🌐 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/o-santiago-monsalve)
