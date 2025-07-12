@@ -8,7 +8,7 @@
 
 ### 🧑‍💻 About Me
 
-I'm a backend developer specialized in building robust and maintainable RESTful APIs with GraphQL using Node.js and Express. I apply Clean Architecture and Domain-Driven Design (DDD) principles to create maintainable systems. I’m currently finishing my Software Analysis and Development degree at **SENA**.
+I'm a backend developer specialized in building robust and maintainable RESTful APIs with GraphQL using Node.js and Express. I apply Clean Architecture principles to create maintainable systems. I’m currently finishing my Software Analysis and Development degree at **SENA**.
 
 I've built APIs for collaborative project management, livestock control, and a microservices-based social network. I'm passionate about software architecture, performance, security, and writing clean, understandable code.
 
@@ -29,6 +29,7 @@ I've built APIs for collaborative project management, livestock control, and a m
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width=50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" alt="Jest" width="50" height="50" />
   <img src="./jwt-3.svg" alt="JWT" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oauth/oauth-plain.svg" alt="OAuth2.0" width="50" height="50"/>
 </p>
 
 ---
@@ -38,12 +39,12 @@ I've built APIs for collaborative project management, livestock control, and a m
 - **Languages & Frameworks**: Node.js, Express, Typescript, GraphQL(Apollo server)
 - **Databases**: PostgreSQL, Sequelize ORM
 - **Cache & Messaging**: Redis, BullMQ
-- **Security**: JWT
+- **Security**: JWT, OAuth2.0
 - **Other Tools**: Docker, Swagger, Git & GitHub
 - **Architecture**: Clean Architecture, Domain-Driven Design (DDD) and Entity-based MVC
 - **Testing**: Jest + Supertest
 
-Currently learning: **Nest.js**,**OAuth**, **Socket.io**, **B1 English**
+Currently learning: **Microservices**, **Software architecture**, **MongoDB**, **MySQL** **B1 English**
 
 ---
 
