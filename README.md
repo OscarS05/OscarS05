@@ -1,14 +1,14 @@
 <h1 align="center">Hi there! 👋 I'm Oscar Santiago Monsalve Labrador</h1>
 
 <p align="center">
-  <strong>Backend Developer focused on Node.js</strong>
+  <strong>Software developer with a focus on backend</strong>
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-I'm a backend developer specialized in building robust and maintainable RESTful APIs with GraphQL using Node.js and Express. I apply Clean Architecture principles to create maintainable systems. I’m currently finishing my Software Analysis and Development degree at **SENA**.
+I'm a backend software developer with expertise in application analysis, design, development, testing, and deployment. I'm proficient in creating robust and maintainable RESTful APIs with GraphQL using Node.js, Express, and NestJS. I apply the principles of Clean Architecture. I'm currently completing my bachelor's degree in Software Analysis and Development at SENA.
 
 I've built APIs for collaborative project management, livestock control, and a microservices-based social network. I'm passionate about software architecture, performance, security, and writing clean, understandable code.
 
@@ -41,15 +41,15 @@ I've built APIs for collaborative project management, livestock control, and a m
 
 ### 🛠️ Technologies & Tools
 
-- **Languages & Frameworks**: Node.js, Express, NestJS, Typescript, GraphQL(Apollo server)
-- **Databases**: PostgreSQL, Sequelize ORM, PrismaORM, TypeORM
+- **Languages & Frameworks**: PHP, Node.js, Express, NestJS, Typescript, GraphQL(Apollo server)
+- **Databases**: PostgreSQL, MySQL, SequelizeORM, PrismaORM, TypeORM
 - **Cache & Messaging**: Redis, BullMQ
 - **Security**: JWT, OAuth2.0
 - **Other Tools**: Docker, Swagger, Git & GitHub
 - **Architecture**: Clean Architecture, Domain-Driven Design (DDD) and Entity-based MVC
 - **Testing**: Jest + Supertest
 
-Currently learning: **Microservices**, **Software architecture**, **MongoDB**, **MySQL** **B1 English**
+Currently learning: **Laravel and Symfony**, **Microservices**, **Software architecture**, **MongoDB**, **B1 English**
 
 ---
 
