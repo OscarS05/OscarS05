@@ -8,7 +8,7 @@
 
 ### 🧑‍💻 About Me
 
-I'm a backend software developer with expertise in application analysis, design, development, testing, and deployment. I'm proficient in creating robust and maintainable RESTful APIs with GraphQL using Node.js, Express, and NestJS. I apply the principles of Clean Architecture. I'm currently completing my bachelor's degree in Software Analysis and Development at SENA.
+I’m a software developer specialized in backend development. I have knowledge in analysis, design, development, testing, and implementation of applications. I have experience building robust and maintainable RESTful APIs and working with GraphQL using Node.js, Express, and NestJS. I apply Clean Architecture principles. I’m currently pursuing a degree in Software Analysis and Development at SENA.
 
 I've built APIs for collaborative project management, livestock control, and a microservices-based social network. I'm passionate about software architecture, performance, security, and writing clean, understandable code.
 
