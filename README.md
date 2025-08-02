@@ -8,15 +8,17 @@
 
 ### 🧑‍💻 About Me
 
-I’m a software developer specialized in backend development. I have knowledge in analysis, design, development, testing, and implementation of applications. I have experience building robust and maintainable RESTful APIs and working with GraphQL using Node.js, Express, and NestJS. I apply Clean Architecture principles. I’m currently pursuing a degree in Software Analysis and Development at SENA.
+I’m a software developer specialized in backend development. I have knowledge in analysis, design, development, testing, and implementation of applications. I have experience building robust and maintainable RESTful APIs and working with GraphQL using Node.js, Express, and NestJS, also PHP with Laravel. I apply Clean Architecture principles. I’m currently pursuing a degree in Software Analysis and Development at SENA.
 
-I've built APIs for collaborative project management, livestock control, and a microservices-based social network. I'm passionate about software architecture, performance, security, and writing clean, understandable code.
+I've built APIs for collaborative project management, livestock control, and a microservices-based social network, also a blog with Laravel. I'm passionate about software architecture, performance, security, and writing clean, understandable code.
 
 ---
 
 <p align="center"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" alt="HTML" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" alt="Laravel" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original-wordmark.svg" alt="Livewire" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="Typescript" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
@@ -41,7 +43,7 @@ I've built APIs for collaborative project management, livestock control, and a m
 
 ### 🛠️ Technologies & Tools
 
-- **Languages & Frameworks**: PHP, Node.js, Express, NestJS, Typescript, GraphQL(Apollo server)
+- **Languages & Frameworks**: PHP, Laravel, Node.js, Express, NestJS, Typescript, GraphQL(Apollo server)
 - **Databases**: PostgreSQL, MySQL, SequelizeORM, PrismaORM, TypeORM
 - **Cache & Messaging**: Redis, BullMQ
 - **Security**: JWT, OAuth2.0
@@ -49,7 +51,7 @@ I've built APIs for collaborative project management, livestock control, and a m
 - **Architecture**: Clean Architecture, Domain-Driven Design (DDD) and Entity-based MVC
 - **Testing**: Jest + Supertest
 
-Currently learning: **Laravel and Symfony**, **Microservices**, **Software architecture**, **MongoDB**, **B1 English**
+Currently learning: **Symfony**, **MariaDB**, **Microservices**, **Software architecture**, **MongoDB**, **B1 English**
 
 ---
 
@@ -62,8 +64,12 @@ Currently learning: **Laravel and Symfony**, **Microservices**, **Software archi
 > Agroplus-API is a GraphQL-enabled RESTful API designed to help farmers manage all relevant information about their livestock. It allows users to record, track, and manage animal data, including parentage, vaccination, deworming records, and personal notes.
 
 
-#### 🔸 [Microservices Social Network (Basic)](https://github.com/OscarS05/microservices-basic-course)
+#### 🔸 [Microservices Social Network](https://github.com/OscarS05/microservices-basic-course)
 > A simple social network backend implemented using microservices for posts, cache, database, and core services.
+
+
+#### 🔸 [Blog - Laravel](https://github.com/OscarS05/blog-laravel)
+> A question and answer forum built with **Laravel** and **Livewire**. It allows users to log in or register, create questions, reply, comment, react with hearts, edit, and delete their questions.
 
 ---
 
