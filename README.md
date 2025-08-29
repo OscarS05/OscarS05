@@ -64,8 +64,8 @@ Currently learning: **Symfony**, **MariaDB**, **Microservices**, **Software arch
 > Agroplus-API is a GraphQL-enabled RESTful API designed to help farmers manage all relevant information about their livestock. It allows users to record, track, and manage animal data, including parentage, vaccination, deworming records, and personal notes.
 
 
-#### 🔸 [Microservices Social Network](https://github.com/OscarS05/microservices-basic-course)
-> A simple social network backend implemented using microservices for posts, cache, database, and core services.
+#### 🔸 [Social-media API](https://github.com/OscarS05/social-media-API)
+> Social-media API is a backend I'm developing in NestJS. It will be a GraphQL-compatible RESTful API and will utilize DDD + Hexagonal Architecture. Its features will include a robust authentication system with JWT, OAuth 2.0, and OIDC. It will also include social relationships including followers, following, and blocks, real-time chats for individuals and groups, and WhatsApp-style broadcasts.
 
 
 #### 🔸 [Blog - Laravel](https://github.com/OscarS05/blog-laravel)
@@ -76,7 +76,7 @@ Currently learning: **Symfony**, **MariaDB**, **Microservices**, **Software arch
 ### 📚 Certifications & Learning
 
 - 🎓 Finishing technologist degree in **Software Analysis and Development – SENA**
-- 🎖️ Ongoing backend training via [Platzi](https://platzi.com/p/santiagomonsalve7030/): Backend Development with Node.js, Python, backend architecture, databases and more.
+- 🎖️ Ongoing backend training via [Platzi](https://platzi.com/p/santiagomonsalve7030/): Backend Development with Node.js, PHP, Python, Java, backend architecture, databases and more.
 
 ---
 
