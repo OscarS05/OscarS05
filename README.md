@@ -10,7 +10,7 @@
 
 I’m a software developer specialized in backend development. I have knowledge in analysis, design, development, testing, and implementation of applications. I have experience building robust and maintainable RESTful APIs and working with GraphQL using Node.js, Express, and NestJS, also PHP with Laravel. I apply Clean Architecture principles. I’m currently pursuing a degree in Software Analysis and Development at SENA.
 
-I've built APIs for collaborative project management, livestock control, and a microservices-based social network, also a blog with Laravel. I'm passionate about software architecture, performance, security, and writing clean, understandable code.
+I've built APIs for collaborative project management, livestock control, and a social-media API, also a blog with Laravel. I'm passionate about software architecture, performance, security, and writing clean, understandable code.
 
 ---
 
@@ -48,24 +48,23 @@ I've built APIs for collaborative project management, livestock control, and a m
 - **Cache & Messaging**: Redis, BullMQ
 - **Security**: JWT, OAuth2.0
 - **Other Tools**: Docker, Swagger, Git & GitHub
-- **Architecture**: Clean Architecture, Domain-Driven Design (DDD) and Entity-based MVC
+- **Architecture**: Clean Architecture, Hexagonal architecture Domain-Driven Design (DDD) and Entity-based MVC
 - **Testing**: Jest + Supertest
 
-Currently learning: **Symfony**, **MariaDB**, **Microservices**, **Software architecture**, **MongoDB**, **B1 English**
+Currently learning: **Symfony**, **Kafka**, **Google Cloud Platform (GCP)** **Microservices**, **Software architecture**, **MongoDB**, **B1 English**
 
 ---
 
 ### 📌 Featured Projects
+
+#### 🔸 [Social-media API](https://github.com/OscarS05/social-media-API)
+> Social-media API is a backend I'm developing in NestJS. It will be a GraphQL-compatible RESTful API and will utilize DDD + Hexagonal Architecture. Its features will include a robust authentication system with JWT, OAuth 2.0, and OIDC. It will also include social relationships including followers, following, and blocks, real-time chats for individuals and groups, and WhatsApp-style broadcasts.
 
 #### 🔹 [Trello-like API](https://github.com/OscarS05/Trello-like-project-api)
 > Trello-like is an API for collaborative project management inspired by Trello. It includes features like authentication, user roles, workspaces, projects, teams, task assignment, checklists, members, and file attachments. Built with Node.js, Express, PostgreSQL, Sequelize ORM, Redis, JWT, BullMQ, and Docker. The project follows Clean Architecture and DDD principles.
 
 #### 🔹 [Agroplus API](https://github.com/OscarS05/Agroplus-api)
 > Agroplus-API is a GraphQL-enabled RESTful API designed to help farmers manage all relevant information about their livestock. It allows users to record, track, and manage animal data, including parentage, vaccination, deworming records, and personal notes.
-
-
-#### 🔸 [Social-media API](https://github.com/OscarS05/social-media-API)
-> Social-media API is a backend I'm developing in NestJS. It will be a GraphQL-compatible RESTful API and will utilize DDD + Hexagonal Architecture. Its features will include a robust authentication system with JWT, OAuth 2.0, and OIDC. It will also include social relationships including followers, following, and blocks, real-time chats for individuals and groups, and WhatsApp-style broadcasts.
 
 
 #### 🔸 [Blog - Laravel](https://github.com/OscarS05/blog-laravel)
