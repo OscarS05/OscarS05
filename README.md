@@ -58,7 +58,7 @@ Currently learning: **Symfony**, **Kafka**, **Google Cloud Platform (GCP)** **Mi
 ### 📌 Featured Projects
 
 #### 🔸 [Social-media API](https://github.com/OscarS05/social-media-API)
-> Social-media API is a backend I'm developing in NestJS. It will be a GraphQL-compatible RESTful API and will utilize DDD + Hexagonal Architecture. Its features will include a robust authentication system with JWT, OAuth 2.0, and OIDC. It will also include social relationships including followers, following, and blocks, real-time chats for individuals and groups, and WhatsApp-style broadcasts.
+> Social-media API is a backend I'm developing in NestJS. It will be a GraphQL-compatible RESTful API and will utilize DDD + Hexagonal Architecture. Its features will include a robust authentication system with JWT and OAuth 2.0. It will also include social relationships including followers, following, and blocks, real-time chats for individuals and groups, and WhatsApp-style broadcasts.
 
 #### 🔹 [Trello-like API](https://github.com/OscarS05/Trello-like-project-api)
 > Trello-like is an API for collaborative project management inspired by Trello. It includes features like authentication, user roles, workspaces, projects, teams, task assignment, checklists, members, and file attachments. Built with Node.js, Express, PostgreSQL, Sequelize ORM, Redis, JWT, BullMQ, and Docker. The project follows Clean Architecture and DDD principles.
