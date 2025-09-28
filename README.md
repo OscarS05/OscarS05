@@ -62,7 +62,7 @@ Currently learning: **Symfony**, **Kafka**, **Google Cloud Platform (GCP)** **Mi
 
 ### 📌 Featured Projects
 
-#### 🔸 [Web site for León Gráficas)
+🔸 Web site for León Gráficas
 > This website was created using Next.js and React, with TailwindCSS for styling and a NestJS + MySQL backend for the admin panel. The website features dynamic, modern animations and server-side rendering for SEO optimization.
 
 #### 🔸 [Social-media API](https://github.com/OscarS05/social-media-API)
