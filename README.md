@@ -47,7 +47,7 @@ I've built APIs for collaborative project management, livestock control, and a s
 
 ### 🛠️ Technologies & Tools
 
-- **Languages & Frameworks**: PHP, Laravel, Node.js, Express, NestJS, Typescript, GraphQL(Apollo server)
+- **Backend**: PHP, Laravel, Node.js, Express, NestJS, Typescript, GraphQL(Apollo server), RESTful API
 - **Frontend**: HTML, CSS, TailwindCSS, Bootstrap, JavaScript
 - **Databases**: PostgreSQL, MySQL, SequelizeORM, PrismaORM, TypeORM
 - **Cache & Messaging**: Redis, BullMQ
