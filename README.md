@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Oscar Santiago Monsalve Labrador</h1>
 
 <p align="center">
-  <strong>Software developer with a focus on backend</strong>
+  <strong>Software developer</strong>
 </p>
 
 ---
